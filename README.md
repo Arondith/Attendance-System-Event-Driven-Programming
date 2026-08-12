@@ -1,6 +1,8 @@
 # Attendance System — Event-Driven Programming
 
-A Java-based attendance management project created for Event-Driven Programming coursework. The application includes administrative forms, attendance scanning, academic data management, and attendance reporting.
+## About
+
+A Java-based academic attendance management system developed for Event-Driven Programming coursework. It demonstrates desktop GUI development, attendance scanning, administrative management, academic data handling, and reporting.
 
 ## Features
 
