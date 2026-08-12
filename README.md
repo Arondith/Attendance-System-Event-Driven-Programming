@@ -2,16 +2,22 @@
 
 ## About
 
-A Java-based academic attendance management system developed for Event-Driven Programming coursework. It demonstrates desktop GUI development, attendance scanning, administrative management, academic data handling, and reporting.
+A **Java desktop attendance-management system** developed for Event-Driven Programming coursework. The project demonstrates how an event-driven GUI application can manage attendance records, academic information, administrative users, and reporting from one desktop interface.
 
-## Features
+The system includes an **attendance-scanning screen**, attendance reports, user administration, college and department management, course entry and maintenance, and multiple Java Swing/NetBeans forms. It was designed as a practical academic exercise in handling button events, form interactions, data entry, validation, navigation between screens, and database-connected desktop workflows.
+
+## Core features
 
 - Attendance scanning interface
-- Attendance report screen
-- User administration
-- College and department management
-- Course management
-- Event-driven desktop forms built in Java
+- Attendance report generation and viewing
+- Administrative user management
+- College management
+- Department entry and management
+- Course entry and course management
+- Event-driven buttons, forms, and navigation
+- Java desktop GUI built with form definitions
+- Academic data organization
+- Database-ready application structure
 
 ## Project structure
 
@@ -26,6 +32,14 @@ The repository contains Java source files and GUI form definitions. Some of the 
 - `CoursesForm.java` — course management
 
 Corresponding `.form` files contain the GUI form definitions used by the Java desktop application.
+
+## Technology
+
+- Java
+- Java Swing / NetBeans GUI forms
+- Event-driven programming
+- Desktop application development
+- Database-connected workflow concepts
 
 ## Running locally
 
