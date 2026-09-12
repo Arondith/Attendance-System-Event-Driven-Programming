@@ -49,6 +49,19 @@ Corresponding `.form` files contain the GUI form definitions used by the Java de
 4. Configure any database connection settings required by the application.
 5. Build and run the project from the IDE.
 
+## Project scope
+
+This repository is intended as an academic demonstration of event-driven desktop application development. Before adapting it for production use, review authentication, database configuration, input validation, error handling, logging, and backup requirements for the target environment.
+
+## Contributing
+
+Small improvements are welcome when maintaining or extending the project. Keep changes focused and easy to review:
+
+1. Describe the problem or improvement clearly in the commit message.
+2. Avoid committing IDE-generated files unless they are required by the NetBeans project.
+3. Test affected forms and navigation after changing Java source or `.form` files.
+4. Never commit passwords, database credentials, API keys, or other secrets.
+
 ## Notes
 
 This is an academic project. Review environment-specific configuration and database credentials before using it outside a local development environment.
